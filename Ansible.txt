@@ -1,0 +1,1 @@
+ansible es una plataforma de software libre para configurar y administrar ordenadores, combina instalacion multi-nodo.
